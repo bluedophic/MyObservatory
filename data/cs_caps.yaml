@@ -1,0 +1,8 @@
+platformName: Android
+platformVersion: "9"
+deviceName: 127.0.0.1:62026
+appPackage: hko.MyObservatory_v1_0
+appActivity: hko.homepage.Homepage2Activity
+noReset: True
+ip: 127.0.0.1
+port: 4723
